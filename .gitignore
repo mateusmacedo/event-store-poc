@@ -39,3 +39,6 @@ lerna-debug.log*
 test.env
 .vscode/settings.json
 docker/data/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
